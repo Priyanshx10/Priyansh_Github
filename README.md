@@ -83,17 +83,6 @@
 
 ---
 
-### 📊 GitHub Activity Summary (2024)
-
-| Metric                          | Value             |
-|------------------------------- |-------------------|
-| 🧩 Repositories (Public)        | `20+`             |
-| 🔒 Private Repo Contributions   | ✅ Enabled         |
-| 🏢 Org Repos (PR-Connect, etc.)| ✅ Counted         |
-| 📦 Total Contributions (2024)  | `830+ and growing`|
-
----
-
 ### 📈 GitHub Contribution Graph
 
 <div align="center">
